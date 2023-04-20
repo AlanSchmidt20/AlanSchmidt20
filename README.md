@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alan-schmidt-b62377165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-schmidt-b62377165" height="30" width="40" /></a>
 <a href="https://instagram.com/alanschmidt.rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanschmidt.rf" height="30" width="40" /></a>
-<a href="https://discord.gg/Alan Schmidt#2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alan Schmidt#2207" height="30" width="40" /></a>
+<a href="https://discord.gg/qw7ehSt4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alan Schmidt#2207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

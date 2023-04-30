@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Schmidt Tennis Academy](https://www.schmidttennisacademy.com/)
 
-- 🌱 I’m currently learning **Advance React & Git**
+- 🌱 I’m currently learning **Advance React & Typescript**
 
 - 👨‍💻 All of my projects are available at [https://alanschmidt.vercel.app/](https://alanschmidt.vercel.app/)
 
